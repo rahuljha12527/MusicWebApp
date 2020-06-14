@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    /* background-color: darkblue; */
+    background-color: darkcyan;
+}
+
+nav{
+    display: inline-block;
+}
+
+.m-image img{
+    height: 10vh;
+    width: 5vw;
+    margin-left: 50px;
+}
+
+#Latest-music img{
+    
+    height: 200px;
+    width: 200px;
+}
+
+#artist img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+#type-music img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   
+}
+
+#Variety-music{
+    margin-top: 50px;
+}
+#Variety-music img{
+    
+    height: 250px;
+    width: 400px;
+}
+
+#Latest-English img{
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+
+
+#Latest-Hindi img{
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
